@@ -3,11 +3,19 @@
   <head> <!-- head section contanes info about webpage -->
     <title>Wood Working</title><!-- shows in the tab -->
   </head>
-  <body style="background-color:brown;"><!-- code for what you see on the webpage -->
+  <body style="background-color:brown">
     <h1>I like to make things with wood</h1><!-- main heading. larger numbers like h2 are for sub headings -->
     <p><!-- p tag for paragraph -->
       Wood working is one of the most fufling hobbies to do.
-       <img src="img1.jfif" alt="oops pic failed to load"><!-- img does not have a pair tag -->
+       <img src="img1.jfif" alt="oops pic failed to load">
+    </p>
+    <p>
+       it helps you get skils working with your hands 
+        <img src="img2.jfif" alt="oops pic failed to load">
+    </p>
+    <p>
+    wood working helps you build complex problem solving skils
+    <img src="img3.jfif" alt="oops pic failed to load">
     </p>
    
   </body>
