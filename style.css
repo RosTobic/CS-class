@@ -26,8 +26,12 @@ img{
 	border:aquamarine;
 	color:aqua;
 	margen:1000;
+	padding:1000;
 
 }
 title{
 	color:brown;
+}
+a{
+	color:lime;
 }
