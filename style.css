@@ -14,9 +14,10 @@ p  {
   font-family: Comic Sans MS;
   font-size: 160%;
   border: 3px solid #6d093f;
-	grn{
-	color:#ccff00 ;
-	font-size:300% ;
-	}
+	
 }
  
+.grn{
+	color:#cbf71d ;
+	font-size:300% ;
+	}
