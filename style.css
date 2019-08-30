@@ -22,16 +22,8 @@ p  {
 	font-size:300% ;
 	}
 
-img{
-	border:aquamarine;
-	color:aqua;
-	margen:1000;
-	padding:1000;
 
-}
-title{
-	color:brown;
-}
 a{
 	color:lime;
+	padding: 300px;
 }
